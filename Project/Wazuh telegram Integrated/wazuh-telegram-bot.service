@@ -1,0 +1,16 @@
+[Unit]
+Description=Wazuh Telegram Bot Handler (Inline Button Callbacks)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=root
+ExecStart=/var/ossec/framework/python/bin/python3 /var/ossec/integrations/telegram_bot_handler.py
+Restart=on-failure
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target
