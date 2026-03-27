@@ -1,0 +1,15 @@
+C:\Users\Mufidfr\source\repos\CyberAcademy\CyberAcademy\obj\Debug\CyberAcademy.csproj.AssemblyReference.cache
+C:\Users\Mufidfr\source\repos\CyberAcademy\CyberAcademy\obj\Debug\CyberAcademy.Properties.Resources.resources
+C:\Users\Mufidfr\source\repos\CyberAcademy\CyberAcademy\obj\Debug\CyberAcademy.csproj.GenerateResource.cache
+C:\Users\Mufidfr\source\repos\CyberAcademy\CyberAcademy\obj\Debug\CyberAcademy.csproj.CoreCompileInputs.cache
+C:\Users\Mufidfr\source\repos\CyberAcademy\CyberAcademy\obj\Debug\CyberAcademy.Loginbtn.resources
+C:\Users\Mufidfr\source\repos\CyberAcademy\CyberAcademy\obj\Debug\CyberAcademy.Dashboard.resources
+C:\Users\Mufidfr\source\repos\CyberAcademy\CyberAcademy\obj\Debug\CyberAcademy.Register.resources
+C:\Users\Mufidfr\source\repos\CyberAcademy\CyberAcademy\obj\Debug\CyberAcademy.Materials.resources
+C:\Users\Mufidfr\source\repos\CyberAcademy\CyberAcademy\obj\Debug\CyberAcademy.Quiz.resources
+C:\Users\Mufidfr\source\repos\CyberAcademy\CyberAcademy\bin\Debug\MindVault.exe.config
+C:\Users\Mufidfr\source\repos\CyberAcademy\CyberAcademy\bin\Debug\MindVault.exe
+C:\Users\Mufidfr\source\repos\CyberAcademy\CyberAcademy\bin\Debug\MindVault.pdb
+C:\Users\Mufidfr\source\repos\CyberAcademy\CyberAcademy\obj\Debug\MindVault.exe
+C:\Users\Mufidfr\source\repos\CyberAcademy\CyberAcademy\obj\Debug\MindVault.pdb
+C:\Users\Mufidfr\source\repos\CyberAcademy\CyberAcademy\obj\Debug\CyberAcademy.ProgressUserControl.resources
