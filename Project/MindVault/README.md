@@ -1,3 +1,5 @@
+<img width="1760" height="1095" alt="Screenshot 2025-12-06 090647" src="https://github.com/user-attachments/assets/a615df4e-c638-4630-9132-cec8fa506760" />
+
 # MindVault 🧠✨
 
 > A sleek, gamified e-learning experience built to make studying less of a chore and more of a win.
@@ -9,6 +11,8 @@ Let's face it: traditional e-training is often clunky, ineffective, and flat-out
 * **Quick Access Panel:** Jump straight into your courses, quizzes, and progress tracker without digging through nested menus.
 * **Gamified Progress:** A "My Progress" dashboard that tracks your high scores and ranks to keep you motivated.
 * **Interactive Quizzes:** Real-time feedback with instant color-coded reviews (Green = Great, Red = Needs Work).
+
+<img width="1758" height="1092" alt="Screenshot 2025-12-06 091020" src="https://github.com/user-attachments/assets/1766c7b7-62c3-4ce9-b65c-799684d251de" />
 
 ## 🛠️ Under the Hood
 * **Environment:** C# .NET Framework (Windows Forms)
